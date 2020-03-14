@@ -8,6 +8,8 @@ Providing the following customized configurations:
 - Coloring command prompt
 - and more
 
+----
+
 ### Usage
 Simly place all files in root and restart the `Git Bash`.
 
