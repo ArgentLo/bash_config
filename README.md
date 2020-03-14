@@ -11,6 +11,9 @@ Providing the following customized configurations:
 ----
 
 ### Usage
-Simly place all files in root and restart the `Git Bash`.
 
-(Default root: `/c/Users/your_user_name`)
+1. Rename files to `.bash_profile` and `.bash-terminal-config`.
+
+2. Move all files in root and restart the `Git Bash`.
+
+   (Default root: `/c/Users/your_user_name`)
