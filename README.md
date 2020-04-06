@@ -1,6 +1,8 @@
 # Bash Personal Configuration
 
-This config is mainly used in `Windows Git Bash`. For Linux system, `ZSH shell` (having better theming) is recommended.
+This config is mainly used in `Windows Git Bash`. 
+
+For Linux system, `ZSH shell` (having better theming) is recommended.
 
 Providing the following customized configurations:
 - Change command prompt
