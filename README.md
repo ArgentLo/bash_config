@@ -20,4 +20,4 @@ Providing the following customized configurations:
 
    (Default root: `/c/Users/your_user_name`)
 
-(on Windows10, `.bash_profile`)
+(on Windows10, `.bash_profile` might need to newly create one)
