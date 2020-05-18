@@ -19,3 +19,5 @@ Providing the following customized configurations:
 2. Move all files in root and restart the `Git Bash`.
 
    (Default root: `/c/Users/your_user_name`)
+
+(on Windows10, `.bash_profile`)
